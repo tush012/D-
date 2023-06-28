@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31903767564",
+    "firebase_url": "https://crudfire-371c2-default-rtdb.firebaseio.com",
+    "project_id": "crudfire-371c2",
+    "storage_bucket": "crudfire-371c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31903767564:android:9ebc744ed0f8d5218a6229",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31903767564-md6c88o07dv747o1q8b1jcn0t5t8f4rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "75fbc74a6872618463d182f12033137f28b6a607"
+          }
+        },
+        {
+          "client_id": "31903767564-s6f1p0s8k7eeh10ir70ilk8rv602hrbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQjDsCFyQjVxVZXs3nxoq5KEDzKItXj60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31903767564-s6f1p0s8k7eeh10ir70ilk8rv602hrbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
